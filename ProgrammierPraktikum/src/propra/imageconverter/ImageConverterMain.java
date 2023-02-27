@@ -15,7 +15,7 @@ import java.io.IOException;
  * @author Martina Koch
  */
 
-public class ImageConverter {
+public class ImageConverterMain {
     public static void main(String[] args) {
         try {
             new Controller(args);
